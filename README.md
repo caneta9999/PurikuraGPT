@@ -1,5 +1,5 @@
 # PurikuraGPT
-Code created with ChatGPT to make a Purikura app and test ChatGPT capability. <br/>
+Code created with [ChatGPT](https://openai.com/blog/chatgpt) to make a Purikura app and test the capability of this IA. <br/>
 > In Japan, purikura (プリクラ) refers to a photo sticker booth or the product of such a photo booth. The name is a shortened form of the registered Atlus/Sega trademark Print Club (プリント倶楽部, Purinto Kurabu), the first purikura machine, introduced to arcades in 1995. [[source]](https://en.wikipedia.org/wiki/Photo_booth#Purikura).
 
 The code tries to simulate it, taking 4 pictures and making a 2x2 grid at the end. <br/>
